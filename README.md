@@ -20,3 +20,7 @@ If we use 2 lower bytes from every value (=`2.764.800`), we will get `2.764.800*
 It means that we can hide some text or even a small file there.
 
 You can see some windows:
+
+![Alt text](https://github.com/nikitaxgusev/My_task_Cplusplus/blob/master/ImageShow/imageshowRes.jpg?raw=true "Optional Title")
+
+![Alt text](https://github.com/nikitaxgusev/My_task_Cplusplus/blob/master/ImageShow/imageshowRes.jpg?raw=true "Optional Title")
