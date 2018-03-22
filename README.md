@@ -21,6 +21,6 @@ It means that we can hide some text or even a small file there.
 
 You can see some windows:
 
-![Alt text](https://github.com/nikitaxgusev/My_task_Cplusplus/blob/master/ImageShow/imageshowRes.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/nikitaxgusev/steganographyPy/blob/master/12.png?raw=true "Optional Title")
 
-![Alt text](https://github.com/nikitaxgusev/My_task_Cplusplus/blob/master/ImageShow/imageshowRes.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/nikitaxgusev/steganographyPy/blob/master/13.png?raw=true "Optional Title")
